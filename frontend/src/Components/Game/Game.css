@@ -1,0 +1,22 @@
+.game {
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    overflow: hidden;
+    box-shadow: rgba(24, 24, 24, 0.25) 3px 3px 3px 3px;
+  }
+  
+  .game img {
+    width: 360px;
+    height: 140px;
+    margin: 10px;
+  }
+
+  .game-info {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
